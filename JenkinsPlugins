@@ -1,0 +1,21 @@
+Plugins needed
+Active Directory
+AWS codebuild
+Blue oceamn
+Bitbucket?
+Conditional Build step
+Credentials Plugin
+Docker Pipeline
+Env Inject API plugin
+Git Plugin
+Github Plugin
+Gradle ?
+JUnit?
+Matrix authorization
+Pipeline plugin and associated plugins
+TimeStamper
+SSH Agent
+
+=Health Monitoring
+DiskUsage
+Datadog
