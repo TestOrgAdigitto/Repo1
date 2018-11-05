@@ -3,7 +3,7 @@ pipeline {
         stages{
             stage('Test') { 
                 steps {
-                    sh ' echo "This is a new Job for doing new things!"'
+                    sh 'echo "This is a new Job for doing new things!"'
                        }       
                 }
             }
